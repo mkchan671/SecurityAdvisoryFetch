@@ -1,0 +1,1357 @@
+,"APM None
+LTM None
+DNS None",,,,,
+K54308152,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K50642058,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable3,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable3,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K75133288,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K23180157,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.5,Apache Tomcat
+K87895241,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,Medium,6.5,Apache Tomcat
+K35033051,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Low,3.3,glibc library
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,8.0.0 - 8.1.0,None,Low,3.3,glibc library
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.1 - 6.1.0,None,,,
+F5OS,1.x,1.1.0 - 1.1.2,None,Low,3.3,glibc library
+Traffix SDC,5.x,5.1.0,None,Low,3.3,glibc library
+K52494142,,,,,,
+BIG-IP (SSL Orchestrator),16.x,16.0.0 - 16.1.0,None,Medium,5.4,SSL Orchestrator
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,Will not fix,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,None,Not applicable,,,
+BIG-IP (all other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0 - 8.1.0,None,Medium,5.4,BIG-IQ User Interface
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.1 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,Not applicable,Medium,5.4,Angular.js
+K32412075,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K50133242,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.2",High,7.5,Bind
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,7.5,Bind
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K96223611,,,,,,
+BIG-IP APM,16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.2",Medium,5.3,APM
+ ,15.x,15.1.0 - 15.1.2,15.1.3,,,
+ ,14.x,14.1.0 - 14.1.4,14.1.4.1,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.4,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IP (all other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K75540265,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.2",High,6.5,BIND
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,6.5,BIND
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K11426315,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.2",High - Appliance Mode Only3,8.7,iControl REST
+ ,15.x,15.1.0 - 15.1.2,15.1.3,,,
+ ,14.x,14.1.0 - 14.1.4,14.1.4.2,,,
+ ,13.x,13.1.0.8 - 13.1.3,13.1.4,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K74151369,,,,,,
+BIG-IP APM,16.x,16.0.0 - 16.0.1,16.1.0,High,7.0,BIG-IP Edge Client for Windows
+ ,15.x,15.1.0 - 15.1.3,15.1.3.13,,,
+ ,14.x,14.1.0 - 14.1.4,None3,,,
+ ,13.x,13.1.0 - 13.1.4,None3,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IP APM Clients,7.x,"7.2.1
+			7.1.6 - 7.1.9","7.2.1.3
+			7.1.9.9 Update 1",High,7.0,BIG-IP Edge Client for Windows
+BIG-IP (all other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K33757590,,,,,,
+BIG-IP APM,16.x,16.0.0 - 16.0.1,16.1.0,High,7.0,BIG-IP Edge Client Windows Component Installer service
+ ,15.x,15.1.0 - 15.1.3,15.1.3.13,,,
+ ,14.x,14.1.0 - 14.1.4,None3,,,
+ ,13.x,13.1.0 - 13.1.4,None3,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IP APM Clients,7.x,"7.2.1
+			7.1.6 - 7.1.9","7.2.1.3
+			7.1.9.9 Update 1",High,7.0,BIG-IP Edge Client Windows Component Installer service
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K08503505,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K94133434,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K45452200,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K71249196,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K41410307,,,,,,
+Type of fix,Fixes introduced in,Related articles,,,,
+Release,"16.1.0
+			15.1.3
+			14.1.4
+			13.1.4",K2200: Most recent versions of F5 software,,,,
+Point release/hotfix,16.0.1.1,K9502: BIG-IP hotfix and point release matrix,,,,
+K91414704,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,Medium,5.9,Apache Cassandra
+K36212405,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.1.0,None,Medium,4.4,glibc
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+BIG-IQ Centralized Management,8.x,8.0.0 - 8.1.0,None,Medium,4.4,glibc
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.1 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,Medium,5.5,glibc
+K08641512,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K75885190,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K33820305,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K89941125,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K13815051,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K68146245,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,16.1.0,High,7.5,iRules LX (Node.js)
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,None,Not Applicable,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.1.0,None,Medium,5.5,iApps LX (Node.js)
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,Will not fix,,,
+ ,11.x,None,Not Applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0 - 8.1.0,None,High,7.5,Node.js
+ ,7.x,7.1.0,None,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K07944249,,,,,,
+BIG-IP APM,16.x,16.0.0 - 16.0.1,"16.1.02, 4
+			16.0.1.1 *,2,4",Medium,6.1,BIG-IP APM browser-based VPN
+ ,15.x,15.1.0 - 15.1.2,"15.1.2.1 2,3",,,
+ ,14.x,14.1.0 - 14.1.3,"14.1.4 *,2,4",,,
+ ,13.x,13.1.0 - 13.1.3,"13.1.3.6 2,4",,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+APM Clients,7.x,"7.2.1
+			7.1.9
+			7.1.5 - 7.1.8","7.2.1.15
+			7.1.9.85
+			7.1.8.55",Medium,6.1,BIG-IP APM browser-based VPN
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K71891773,,,,,,
+BIG-IP (Advanced WAF and ASM),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Critical,9.0,ASM virtual server
+ ,15.x,15.1.0 - 15.1.2,15.1.2.1,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+BIG-IP (All other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K52510511,,,,,,
+"BIG-IP (Advanced WAF, ASM)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1",Medium,4.3,REST API
+ ,15.x,15.1.0 - 15.1.2,15.1.3,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IP (all other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K23203045,,,,,,
+BIG-IP (Advanced WAF and ASM),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",High,8.0,TMUI/Configuration utility
+ ,15.x,15.1.0 - 15.1.2,15.1.2.1,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+BIG-IP (All other modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,Not vulnerable,None,None
+ ,14.x,None,Not applicable,Not vulnerable,None,None
+ ,13.x,None,Not applicable,Not vulnerable,None,None
+ ,12.x,None,Not applicable,Not vulnerable,None,None
+ ,11.x,None,Not applicable,Not vulnerable,None,None
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K56142644,,,,,,
+APM Clients,7.2.x,7.2.1,7.2.1.1,High,7.8,Client Troubleshooting Utility on Windows
+ ,7.1.x,"7.1.9 - 7.1.9.7
+			7.1.5 - 7.1.8","7.1.9.8
+			7.1.8.5",,,
+BIG-IP (APM),16.x,16.0.0 - 16.0.12,"16.1.0
+			16.0.1.1*",High,7.8,Client Troubleshooting Utility on Windows
+ ,15.x,15.1.0 - 15.1.22,None,,,
+ ,14.x,14.1.0 - 14.1.32,14.1.4*,,,
+ ,13.x,13.1.0 - 13.1.32,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,Will not fix,,,
+ ,11.x,11.6.1 - 11.6.5,Will not fix,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K29282483,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1",High,7.5,Virtual servers configured to use the HTTP/2 profile
+ ,15.x,15.1.0 - 15.1.2,15.1.3,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K90603426,,,,,,
+BIG-IP (ASM),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1",High,7.5,bd process
+ ,15.x,15.1.0 - 15.1.1,15.1.2,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.3.1,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.5,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3,,,
+ ,11.x,None,Not applicable,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K18570111,,,,,,
+BIG-IP APM,16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Medium,5.9,VPN tunnel
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+ ,5.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K32049501,,,,,,
+"BIG-IP (Advanced WAF, ASM)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",High,7.5,BIG-IP ASM DoS Profile properties page
+ ,15.x,15.1.0 - 15.1.1,15.1.2,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.3.1*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,None,Not applicable,,,
+"BIG-IP (LTM, AAM, AFM, Analytics, APM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K55237223,,,,,,
+"BIG-IP (Advanced WAF, ASM)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",High,7.5,bd process
+ ,15.x,15.0.0 - 15.1.1,15.1.2,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.3.1*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,None,Not applicable,,,
+"BIG-IP (LTM, AAM, AFM, Analytics, APM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K88230177,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Medium,5.9,TCP Profile
+ ,15.x,15.1.0 - 15.1.1,15.1.2,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.3.1*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K31025212,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Medium,5.9,TCP profile
+ ,15.x,15.1.0 - 15.1.1,15.1.2,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.3.1*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K43470422,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1","Medium
+
+			--
+
+			High - Appliance Mode Only3",6.0,System support functions
+ ,15.x,15.0.0 - 15.1.2,15.1.3,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.4,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+ ,5.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K04234247,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Critical,9.0,TMM
+ ,15.x,15.1.0 - 15.1.2,15.1.2.1,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K56715231,,,,,,
+"BIG-IP (Advanced WAF, ASM)",16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1*",Medium,4.3,BIG-IP ASM file transfer worker
+ ,15.x,15.0.0 - 15.1.0,15.1.2.1,,,
+ ,14.x,14.1.0 - 14.1.2,14.1.4*,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.3.6,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.5.3**,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+"BIG-IP (LTM, AAM, AFM, Analytics, APM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K06440657,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,"16.1.0
+			16.0.1.1",Medium,5.9,TMM
+ ,15.x,15.1.0 - 15.1.2,15.1.3,,,
+ ,14.x,14.1.0 - 14.1.3,14.1.4,,,
+ ,13.x,13.1.0 - 13.1.3,13.1.4,,,
+ ,12.x,12.1.0 - 12.1.5,12.1.6,,,
+ ,11.x,11.6.1 - 11.6.5,11.6.5.3,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K10751325,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K65213626,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K25893729,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K96003129,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K32562936,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,"8.1.0
+			8.0.0.1",Medium,6.5,Configuration utility
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K06024431,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,8.1.0,High,7.5,Grafana
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K00843201,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K94504224,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,7.5,Configuration utility
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.1 - 6.1.0,None,,,
+F5OS,1.x,1.1.0 - 1.1.2,None,High,7.5,LCD web server
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K63597327,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K38453823,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K72118410,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,High,8.1,"Nettle cryptographic library
+			Unbound DNS server
+			DNS Cache"
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K33101555,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K02151228,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K46604804,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K54635192,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K14102355,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K67501282,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Medium3,4.4,Python tarfile library
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium3,4.4,None
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.1 - 6.1.0,None,,,
+F5OS,1.x,1.1.0 - 1.1.2,None,Medium3,4.4,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K78284681,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K03251240,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable3,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+NGINX Plus,N/A,R13 - R24,"R24 P1
+			R23 P1",Low,3.7,NGINX internal resolver
+NGINX Open Source,N/A,0.6.18 - 1.20.0,"1.21.0
+			1.20.1",Low,3.7,NGINX internal resolver
+NGINX Ingress Controller,N/A,Versions using NGINX Plus: 1.0.0 - 1.11.1,1.11.2,Low,3.7,NGINX internal resolver
+ ,Versions using NGINX Open Source: 1.0.0 - 1.11.2,1.11.3,,,,
+K12331123,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+NGINX Controller,3.x,3.0.0 - 3.6.0,3.7.0,Low,3.3,NGINX Controller API
+K36926027,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+NGINX Controller,3.x,3.0.0 - 3.9.0,3.10.0,Medium,5.7,NGINX Controller API
+K45263486,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+NGINX Controller,3.x,3.0.0 - 3.14.0,3.15.0,High,7.8,NGINX Controller support package
+ ,2.x,2.0.0 - 2.9.0,Will not fix,,,
+K04884013,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable3,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable3,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K19443402,,,,,,
+APM Clients,7.x,"7.2.1
+			7.1.6 - 7.1.9","7.2.1.2
+			7.1.9.9",Medium,4.8,BIG-IP Edge Client
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,4.8,Management port (CRL checking)
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,4.8,iRules LX
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,4.8,iAppsLX
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,7.0.0 - 7.1.0,None,Medium,4.8,Management Port (CRL checking)
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,1.0.0,None,Medium,4.8,HostOS and all containers which use OpenSSL
+Traffix SDC,5.x,5.1.0,None,Medium,5.9,OpenSSL
+K42910051,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,Low,3.3,Linux kernel
+K52525232,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.0,gdk-pixbuf2
+K36984830,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K10429441,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,8.0.0,High,8.6,BIG-IQ HA
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K34074377,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO )",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,8.0.0,High,7.5,BIG-IQ DCD quorum member
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K16352404,,,,,,
+"BIG-IP (LTM, AAM, AFM, Analytics, APM, ASM, DNS, FPS, GTM, Link Controller, PEM)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,8.0.0,High,8.2,BIG-IQ high availability
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K13155201,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.5,Linux kernel
+K02186513,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K47306214,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K16213320,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K96639388,,,,,,
+Type of fix,Fixes introduced in,Related articles,,,,
+Release,None,None,,,,
+Point release/hotfix,None,None,,,,
+APM Clients,"7.2.1.2
+			7.1.9.9",K52547540: Updating BIG-IP Edge Client for the BIG-IP APM system,,,,
+K03544414,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K44318398,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K33846344,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable3,None,libcroco
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K01074825,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Medium,5.3,iApps (Qt package)
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,5.3,iApps (Qt package)
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K11542555,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.1.0,None,High,6.8,NSS
+Traffix SDC,5.x,5.1.0,None,High,6.8,NSS
+K13290208,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.1.0,None,Medium,4.4,NSS
+Traffix SDC,5.x,5.1.0,None,Medium,4.4,NSS
+K61267093,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K13351036,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K14756743,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.1.0,None,Medium,6.5,D-Bus
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,6.5,D-Bus
+ ,7.x,7.1.0,None,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K16729408,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K87235248,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K26555255,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K58523450,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K42745412,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K93951507,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K25521404,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K65234135,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K52171694,,,,,,
+BIG-IP (All modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0 - 1.1.0,None,Medium,4.0,dnsmasq
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K98221124,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K02931614,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable2,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable2,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K13591074,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0 - 1.1.0,None,Low,3.7,OpenSSL
+Traffix SDC,5.x,5.1.0,None,Low,3.7,OpenSSL
+K61903372,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K95453343,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K62103028,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0 - 1.1.0,None,Low,3.4,Intel ethernet controller firmware
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K85738358,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0 - 1.1.0,None,Medium,6.0,Intel Ethernet Controller firmware
+Traffix SDC,5.x,None,Not applicable,Non vulnerable,None,None
+K91610944,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Medium,6.7,Management interface
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K37283878,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Medium,5.1,Management interface
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K31445234,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Medium,5.2,Management Interface
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K83504933,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.0.1,None,Low,3.8,Management interface
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K44482551,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,High,7.5,OpenSSL2
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,"14.1.2 - 14.1.4
+			14.1.0.3 - 14.1.0.6",None,,,
+ ,13.x,13.1.1 - 13.1.3,None,,,
+ ,12.x,12.1.2 HF1 - 12.1.5,None,,,
+ ,11.x,None,Not vulnerable,,,
+APM clients,7.x,None,Not vulnerable,None,None,None
+BIG-IP (iRules LX),16.x,16.0.0 - 16.0.1,None,High,7.5,OpenSSL2
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,"14.1.2 - 14.1.4
+			14.1.0.3 - 14.1.0.6",None,,,
+ ,13.x,13.1.1 - 13.1.3,None,,,
+ ,12.x,12.1.2 HF1 - 12.1.5,None,,,
+ ,11.x,None,Not vulnerable,,,
+BIG-IP (iAppsLX),16.x,16.0.0 - 16.0.1,None,High,7.5,OpenSSL2
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,"14.1.2 - 14.1.4
+			14.1.0.3 - 14.1.0.6",None,,,
+ ,13.x,13.1.1 - 13.1.3,None,,,
+ ,12.x,12.1.2 HF1 - 12.1.5,None,,,
+ ,11.x,None,Not vulnerable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,7.5,OpenSSL2
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,1.0.0 - 1.1.0,None,High,7.5,OpenSSL
+Traffix SDC,5.x,None,Not applicable,None,None,None
+K24624116,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K48187630,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.5,Apache Tomcat
+K00174195,,,,,,
+BIG-IP (all modules),16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.0,Apache Tomcat
+K73648110,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,High,7.5,glibc
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K44945790,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.1.0,None,Medium,4.8,glibc
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,4.8,glibc
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,1.0.0,None,Medium,4.8,glibc
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K68251873,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,5.5,None
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,5.5,None
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K67830124,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K59333944,,,,,,
+BIG-IP (all modules),16.x,16.0.0 - 16.1.0,None,High,7.5,glibc
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,12.1.0 - 12.1.6,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,7.5,glibc
+ ,7.x,7.0.0 - 7.1.0,None,,,
+ ,6.x,6.0.0 - 6.1.0,None,,,
+F5OS,1.x,1.0.0,None,High,7.5,glibc
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K27238230,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,5.3,Linux kernel
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,5.3,Linux kernel
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0,None,Medium,5.3,Linux kernel
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K32380005,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Low,3.1,"curl/libcurl (Command Line Interface, EAV Monitors, iRules)"
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Low,3.1,curl/libcurl (Command Line Interface)
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0,None,Low,3.1,"curl/libcurl (Command Line Interface, confd)"
+Traffix SDC,5.x,5.1.0,None,Low,3.1,curl/libcurl
+K63525058,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,6.5,"curl/libcurl (Command Line Interface, EAV Monitors, iRules)"
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,Medium,6.5,curl/libcurl (Command Line Interface)
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0,None,Medium,6.5,"curl/libcurl (Command Line Interface, confd)"
+Traffix SDC,5.x,5.1.0,None,Medium,6.5,curl/libcurl
+K61186963,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,High,7.4,"curl/libcurl (Command Line Interface, EAV Monitors, iRules)"
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,8.0.0,None,High,7.4,curl/libcurl (Command Line Interface)
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0,None,High,7.4,"curl/libcurl (Command Line Interface, confd)"
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K15402727,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable1,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,8.x,None,Not applicable,Not vulnerable1,None,None
+ ,7.x,None,Not applicable,,,
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,None,Not applicable,Not vulnerable1,None,None
+K42355373,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.1,Linux kernel/NFS
+K04553557,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K24920320,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K12183968,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K20031768,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K30857274,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K30340506,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.0.1,None,Medium,5.5,Linux kernel
+ ,15.x,15.1.0 - 15.1.2,None,,,
+ ,14.x,14.1.0 - 14.1.3,None,,,
+ ,13.x,13.1.0 - 13.1.3,None,,,
+ ,12.x,12.1.0 - 12.1.5,None,,,
+ ,11.x,11.6.1 - 11.6.5,None,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K62532228,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K00498403,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable2,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable2,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable2,None,None
+Traffix SDC,5.x,5.1.0,None,High,7.8,sudo (bash)
+K86488846,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,16.0.0 - 16.1.0,None,Medium,6.2,Linux kernel
+ ,15.x,15.1.0 - 15.1.3,None,,,
+ ,14.x,14.1.0 - 14.1.4,None,,,
+ ,13.x,13.1.0 - 13.1.4,None,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,None,Not applicable,Not vulnerable,None,None
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K84900646,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K22572754,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K18684657,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+F5OS,1.x,1.0.0,None,Medium,6.7,Intel Ethernet adapter
+Traffix SDC,5.x,None,Not applicable,Not vulnerable,None,None
+K28563873,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K16346064,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K00866128,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K01051400,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K65078159,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K44834280,,,,,,
+"BIG-IP (LTM, AAM, Advanced WAF, AFM, Analytics, APM, ASM, DDHD, DNS, FPS, GTM, Link Controller, PEM, SSLO)",16.x,None,Not applicable,Not vulnerable,None,None
+ ,15.x,None,Not applicable,,,
+ ,14.x,None,Not applicable,,,
+ ,13.x,None,Not applicable,,,
+ ,12.x,None,Not applicable,,,
+ ,11.x,None,Not applicable,,,
+BIG-IQ Centralized Management,7.x,None,Not applicable,Not vulnerable,None,None
+ ,6.x,None,Not applicable,,,
+Traffix SDC,5.x,5.1.0,5.1.0 CF19,High,7.8,Linux Kernel
+K02825271,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K85113405,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K48641455,,,,,,
+,"APM None
+LTM None
+DNS None",,,,,
+K53632470,,,,,,
